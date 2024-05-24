@@ -1,0 +1,26 @@
+.hover
+{
+    opacity: 0.5;
+    background-color: black;
+    border: 5px solid #555;
+    cursor : pointer;
+    border-radius: 50%;
+}
+
+h1{
+    margin: 0 auto;
+}
+
+body{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+div{
+    display: flex;
+    margin: auto;
+    width:50%;
+    gap : 15px
+    
+}
